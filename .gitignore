@@ -5,3 +5,4 @@
 *.sqlite
 *.json
 *.suo
+/.vs/cipl-public/config/applicationhost.config
